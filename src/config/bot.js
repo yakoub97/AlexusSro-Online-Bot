@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "WeMadeSro Online ⚔ System D11 + Job + Unique + Ranks + Hourly Ranking Events and More!",
+        name: "AlexusSro Online ⚔ System D11 + Job + Unique + Ranks + Hourly Ranking Events and More!",
         // Activity type number (0 = Playing).
         type: 0,
       },
